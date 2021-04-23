@@ -1,0 +1,16 @@
+/////index.js//////
+
+const discord = require("discord.js");
+const db = require("discord.db");
+const client = new Discord.Client();
+const config = require("./config.json");
+const version = require("./version.py");
+const released = require("https://github.com/");
+const debuger = require("./debug.js");
+const hebergeur = require("./hebergeur.json");
+
+//config no disponible 
+
+console.log("on");
+
+Set.server.Activity = require("./hebergeur.json");
