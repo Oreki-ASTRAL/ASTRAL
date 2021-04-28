@@ -1,0 +1,13 @@
+const readme = require("DEKSTOP/USER/NATSUKAWA_Bêta/index.as");
+
+$add-bot -> require("token");
+$dl = require("file.exe");
+
+$module new constent
+
+
+$msg =>("Bêta testeur ASTRAL")
+
+
+
+///////////////////////ASTRAL V4.5 REMASTERED///////////////////////
