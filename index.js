@@ -1,4 +1,4 @@
-const discord = require("ddiscord.js");
+const discord = require("discord.js");
 const langue = require("ASTRAL.as");
 const { readJsonConfigFile } = require("typescript");
 
